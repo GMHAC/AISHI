@@ -1,0 +1,10 @@
+{
+  "name": "RIZVI FOMS Enterprise Operations",
+  "short_name": "RIZVI FOMS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050504",
+  "theme_color": "#ffd21a",
+  "lang": "bn",
+  "description": "RIZVI Enterprise Operations Integrated Production System"
+}

@@ -1,0 +1,20 @@
+RIZVI FOMS COMPLETE PACKAGE — PHASE 1 TO 10
+
+This archive combines the cumulative Phase 1–10 implementation package with the
+source-controlled PDF used as the functional basis.
+
+SOURCE CONTROL RULE:
+The specification states 18 Corporate, 91 Departments, 156 Sections and 564
+Designations. Where the source does not provide exact Department → Section →
+Designation assignments, mappings must not be invented. Import only approved,
+controlled master data.
+
+PUBLISH CHECKLIST:
+1. Review the source-controlled PDF.
+2. Configure production secrets outside source control.
+3. Configure PostgreSQL and run approved migrations.
+4. Configure approved OAuth/OIDC issuer/audience/JWKS.
+5. Run automated tests.
+6. Run staging/UAT/load/security/backup-restore verification.
+7. Configure TLS, DNS, object storage, malware/media processing and event workers.
+8. Obtain management approval before production go-live.

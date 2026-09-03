@@ -1,0 +1,9 @@
+{
+  "release": "RIZVI_FOMS_ENTERPRISE_SCALE_READY",
+  "date": "2026-08-27",
+  "master_counts": {"corporate":18,"departments":91,"sections":156,"designations":564},
+  "clients": ["Android","iPhone/iPad","Windows","macOS","Tablet Web/PWA"],
+  "scale_path": ["Cloud Run","Cloud Storage","Pub/Sub","Managed PostgreSQL","Firebase Authentication","Monitoring"],
+  "document_ingestion": "direct-to-object-storage-signed-url",
+  "production_status": "scale-ready package; GO-LIVE requires managed database migration and load/DR/security tests"
+}

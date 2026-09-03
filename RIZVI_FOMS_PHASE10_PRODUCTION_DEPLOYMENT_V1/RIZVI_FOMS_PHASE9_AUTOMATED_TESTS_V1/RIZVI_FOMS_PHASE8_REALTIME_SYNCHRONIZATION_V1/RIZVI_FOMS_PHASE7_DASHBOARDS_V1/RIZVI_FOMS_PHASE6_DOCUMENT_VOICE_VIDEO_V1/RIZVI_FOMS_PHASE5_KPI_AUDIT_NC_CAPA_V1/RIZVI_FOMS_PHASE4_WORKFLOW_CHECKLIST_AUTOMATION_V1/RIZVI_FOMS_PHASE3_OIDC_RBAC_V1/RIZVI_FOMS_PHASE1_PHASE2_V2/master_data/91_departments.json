@@ -1,0 +1,366 @@
+[
+  {
+    "id": 1,
+    "name": "🏢 Corporate & Strategic Management"
+  },
+  {
+    "id": 2,
+    "name": "📢 Management Communication & Live"
+  },
+  {
+    "id": 3,
+    "name": "🤝 Buyer & Trading House Management"
+  },
+  {
+    "id": 4,
+    "name": "👥 HRM – Full Human Resource Management"
+  },
+  {
+    "id": 5,
+    "name": "⏱️ Attendance & Payroll Management"
+  },
+  {
+    "id": 6,
+    "name": "🎓 Training & Competency Management"
+  },
+  {
+    "id": 7,
+    "name": "❤️ Welfare Management"
+  },
+  {
+    "id": 8,
+    "name": "🏥 Medical Management"
+  },
+  {
+    "id": 9,
+    "name": "📣 Grievance Management"
+  },
+  {
+    "id": 10,
+    "name": "⚖️ Compliance Management"
+  },
+  {
+    "id": 11,
+    "name": "📋 Integrated ISO Management System"
+  },
+  {
+    "id": 12,
+    "name": "🔎 Internal Audit Management"
+  },
+  {
+    "id": 13,
+    "name": "🧾 External / Buyer Audit Management"
+  },
+  {
+    "id": 14,
+    "name": "⚠️ Risk Management"
+  },
+  {
+    "id": 15,
+    "name": "🔄 CAPA & Continual Improvement"
+  },
+  {
+    "id": 16,
+    "name": "🛡️ HSE / Occupational Health & Safety"
+  },
+  {
+    "id": 17,
+    "name": "🌱 Environmental Management"
+  },
+  {
+    "id": 18,
+    "name": "♻️ Waste Management"
+  },
+  {
+    "id": 19,
+    "name": "🧪 Chemical Management"
+  },
+  {
+    "id": 20,
+    "name": "🔐 IT & Information Security Management"
+  },
+  {
+    "id": 21,
+    "name": "📁 Document & Record Management"
+  },
+  {
+    "id": 22,
+    "name": "📊 KPI & Performance Management – All"
+  },
+  {
+    "id": 23,
+    "name": "📅 Planning Management"
+  },
+  {
+    "id": 24,
+    "name": "📐 IE Management"
+  },
+  {
+    "id": 25,
+    "name": "🏭 Production Management"
+  },
+  {
+    "id": 26,
+    "name": "🔍 Quality Assurance / QC Management"
+  },
+  {
+    "id": 27,
+    "name": "🧵 Fabric Management"
+  },
+  {
+    "id": 28,
+    "name": "🧷 Accessories Management"
+  },
+  {
+    "id": 29,
+    "name": "🛒 Procurement Management"
+  },
+  {
+    "id": 30,
+    "name": "📦 Inventory & Store Management"
+  },
+  {
+    "id": 31,
+    "name": "🏷️ Marking & Traceability Management"
+  },
+  {
+    "id": 32,
+    "name": "💰 Accounts & Finance Management"
+  },
+  {
+    "id": 33,
+    "name": "🚢 Commercial Management"
+  },
+  {
+    "id": 34,
+    "name": "🔧 Maintenance Management"
+  },
+  {
+    "id": 35,
+    "name": "⚡ Utility & Energy Management"
+  },
+  {
+    "id": 36,
+    "name": "♻️ Jhute / Leftover / Stock Lot Management"
+  },
+  {
+    "id": 37,
+    "name": "🚨 Emergency & Crisis Management"
+  },
+  {
+    "id": 38,
+    "name": "🔄 Business Continuity Management"
+  },
+  {
+    "id": 39,
+    "name": "📝 Task & Workflow Management"
+  },
+  {
+    "id": 40,
+    "name": "📈 Reports & Analytics"
+  },
+  {
+    "id": 41,
+    "name": "🔔 Notification & Alert Center"
+  },
+  {
+    "id": 42,
+    "name": "🔐 User / Role / Permission Management"
+  },
+  {
+    "id": 43,
+    "name": "🗃️ Master Data Management"
+  },
+  {
+    "id": 44,
+    "name": "⚙️ System Administration"
+  },
+  {
+    "id": 45,
+    "name": "⚙️ Settings"
+  },
+  {
+    "id": 46,
+    "name": "Corporate & Strategic Management"
+  },
+  {
+    "id": 47,
+    "name": "Business Excellence & Strategic Planning"
+  },
+  {
+    "id": 48,
+    "name": "Marketing & Business Development"
+  },
+  {
+    "id": 49,
+    "name": "Marketing & Merchandising"
+  },
+  {
+    "id": 50,
+    "name": "Human Resources Management"
+  },
+  {
+    "id": 51,
+    "name": "Administration Management"
+  },
+  {
+    "id": 52,
+    "name": "Welfare & Employee Relations"
+  },
+  {
+    "id": 53,
+    "name": "Medical & Occupational Health"
+  },
+  {
+    "id": 54,
+    "name": "Compliance & Legal"
+  },
+  {
+    "id": 55,
+    "name": "Integrated Management System (IMS)"
+  },
+  {
+    "id": 56,
+    "name": "Internal Audit"
+  },
+  {
+    "id": 57,
+    "name": "Risk Management"
+  },
+  {
+    "id": 58,
+    "name": "HSE & Occupational Safety"
+  },
+  {
+    "id": 59,
+    "name": "Fire & Life Safety"
+  },
+  {
+    "id": 60,
+    "name": "Environmental Management"
+  },
+  {
+    "id": 61,
+    "name": "Waste & Sustainability Management"
+  },
+  {
+    "id": 62,
+    "name": "Chemical Management"
+  },
+  {
+    "id": 63,
+    "name": "Energy & Utility Management"
+  },
+  {
+    "id": 64,
+    "name": "Product Development & Design"
+  },
+  {
+    "id": 65,
+    "name": "CAD & Pattern"
+  },
+  {
+    "id": 66,
+    "name": "Procurement & Sourcing"
+  },
+  {
+    "id": 67,
+    "name": "Supplier Quality & Development"
+  },
+  {
+    "id": 68,
+    "name": "Fabric & Raw Material Management"
+  },
+  {
+    "id": 69,
+    "name": "Accessories & Packaging"
+  },
+  {
+    "id": 70,
+    "name": "Planning / PPC"
+  },
+  {
+    "id": 71,
+    "name": "Industrial Engineering (IE)"
+  },
+  {
+    "id": 72,
+    "name": "Cutting"
+  },
+  {
+    "id": 73,
+    "name": "Sewing / Production"
+  },
+  {
+    "id": 74,
+    "name": "Finishing & Packing"
+  },
+  {
+    "id": 75,
+    "name": "Quality Assurance"
+  },
+  {
+    "id": 76,
+    "name": "Quality Control"
+  },
+  {
+    "id": 77,
+    "name": "Laboratory / Testing / Calibration"
+  },
+  {
+    "id": 78,
+    "name": "Product Safety & Traceability"
+  },
+  {
+    "id": 79,
+    "name": "Engineering & Maintenance"
+  },
+  {
+    "id": 80,
+    "name": "Electrical & Utility Engineering"
+  },
+  {
+    "id": 81,
+    "name": "Inventory & Warehouse Management"
+  },
+  {
+    "id": 82,
+    "name": "Logistics & Supply Chain"
+  },
+  {
+    "id": 83,
+    "name": "Accounts & Finance"
+  },
+  {
+    "id": 84,
+    "name": "Commercial / Export-Import"
+  },
+  {
+    "id": 85,
+    "name": "IT & Cybersecurity"
+  },
+  {
+    "id": 86,
+    "name": "Security & Access Control"
+  },
+  {
+    "id": 87,
+    "name": "Business Continuity & Crisis Management"
+  },
+  {
+    "id": 88,
+    "name": "MIS / BI / Analytics"
+  },
+  {
+    "id": 89,
+    "name": "Task / Workflow / Notification"
+  },
+  {
+    "id": 90,
+    "name": "Master Data & Document Control"
+  },
+  {
+    "id": 91,
+    "name": "⚙️ Settings"
+  }
+]

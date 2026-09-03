@@ -1,0 +1,10 @@
+node_modules/
+.env
+data/*.db
+data/*.db-journal
+data/*.db-wal
+data/*.db-shm
+uploads/complaints/*
+!uploads/complaints/.gitkeep
+uploads/policies/*
+!uploads/policies/.gitkeep

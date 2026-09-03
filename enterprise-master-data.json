@@ -1,0 +1,2642 @@
+{
+  "corporate": [
+    "Corporate Management",
+    "Strategic Management",
+    "Business Planning & Annual Business Plan",
+    "Management Communication & Conference Center",
+    "Management Meeting Management",
+    "Management Decision / Resolution",
+    "Management Directive / Circular",
+    "Management Task & Action Tracking",
+    "Management KPI",
+    "Management Review",
+    "Risk Management",
+    "Business Continuity Management",
+    "Business Development Management",
+    "Corporate Communication",
+    "Business Development Management",
+    "Corporate Communication",
+    "System",
+    "Settings"
+  ],
+  "departments": [
+    "Corporate & Strategic Management",
+    "Management Communication & Live Conference",
+    "Buyer & Trading House Management",
+    "HRM – Full Human Resource Management",
+    "Attendance & Payroll Management",
+    "Training & Competency Management",
+    "Welfare Management",
+    "Medical Management",
+    "Grievance Management",
+    "Compliance Management",
+    "Integrated ISO Management System",
+    "Internal Audit Management",
+    "External / Buyer Audit Management",
+    "Risk Management",
+    "CAPA & Continual Improvement",
+    "HSE / Occupational Health & Safety",
+    "Environmental Management",
+    "Waste Management",
+    "Chemical Management",
+    "IT & Information Security Management",
+    "Document & Record Management",
+    "KPI & Performance Management – All Employees",
+    "Planning Management",
+    "IE Management",
+    "Production Management",
+    "Quality Assurance / QC Management",
+    "Fabric Management",
+    "Accessories Management",
+    "Procurement Management",
+    "Inventory & Store Management",
+    "Marking & Traceability Management",
+    "Accounts & Finance Management",
+    "Commercial Management",
+    "Maintenance Management",
+    "Utility & Energy Management",
+    "Jhute / Leftover / Stock Lot Management",
+    "Emergency & Crisis Management",
+    "Business Continuity Management",
+    "Task & Workflow Management",
+    "Reports & Analytics",
+    "Notification & Alert Center",
+    "User / Role / Permission Management",
+    "Master Data Management",
+    "System Administration",
+    "Settings",
+    "Corporate & Strategic Management",
+    "Business Excellence & Strategic Planning",
+    "Marketing & Business Development",
+    "Marketing & Merchandising",
+    "Human Resources Management",
+    "Administration Management",
+    "Welfare & Employee Relations",
+    "Medical & Occupational Health",
+    "Compliance & Legal",
+    "Integrated Management System (IMS)",
+    "Internal Audit",
+    "Risk Management",
+    "HSE & Occupational Safety",
+    "Fire & Life Safety",
+    "Environmental Management",
+    "Waste & Sustainability Management",
+    "Chemical Management",
+    "Energy & Utility Management",
+    "Product Development & Design",
+    "CAD & Pattern",
+    "Procurement & Sourcing",
+    "Supplier Quality & Development",
+    "Fabric & Raw Material Management",
+    "Accessories & Packaging",
+    "Planning / PPC",
+    "Industrial Engineering (IE)",
+    "Cutting",
+    "Sewing / Production",
+    "Finishing & Packing",
+    "Quality Assurance",
+    "Quality Control",
+    "Laboratory / Testing / Calibration",
+    "Product Safety & Traceability",
+    "Engineering & Maintenance",
+    "Electrical & Utility Engineering",
+    "Inventory & Warehouse Management",
+    "Logistics & Supply Chain",
+    "Accounts & Finance",
+    "Commercial / Export-Import",
+    "IT & Cybersecurity",
+    "Security & Access Control",
+    "Business Continuity & Crisis Management",
+    "MIS / BI / Analytics",
+    "Task / Workflow / Notification",
+    "Master Data & Document Control",
+    "Settings"
+  ],
+  "sections": [
+    "Accounts & Finance",
+    "Admin, HR & Compliance",
+    "Audit",
+    "CAD",
+    "Commercial",
+    "Cutting",
+    "Cutting Quality",
+    "Electrical",
+    "Fabric",
+    "Finishing",
+    "Finishing Quality",
+    "IE",
+    "Marketing & Merchandising",
+    "Mechanical",
+    "Planning",
+    "Procurement",
+    "Production",
+    "QA Audit",
+    "Quality",
+    "Quality Receive",
+    "Receive",
+    "Sample",
+    "Security",
+    "Sewing",
+    "Sewing Quality",
+    "Size Set",
+    "Stock Lot",
+    "Store Quality",
+    "Store",
+    "Others",
+    "System",
+    "Corporate Governance",
+    "Management Review",
+    "Management Communication",
+    "Live Audio Conference",
+    "Live Video Conference",
+    "Business Strategy",
+    "Business Excellence",
+    "Business Development",
+    "Marketing",
+    "Buyer & Trading House",
+    "Buyer Communication",
+    "Merchandising",
+    "Costing",
+    "Order Management",
+    "T&A Management",
+    "Customer Satisfaction",
+    "Recruitment",
+    "Personnel",
+    "Manpower Planning",
+    "Employee Relations",
+    "Attendance",
+    "Leave Management",
+    "Payroll",
+    "Training & Competency",
+    "Performance Management",
+    "Welfare",
+    "Grievance",
+    "Childcare",
+    "Medical Center",
+    "First Aid",
+    "Occupational Health",
+    "Administration",
+    "Facilities",
+    "Transport",
+    "Housekeeping",
+    "Compliance",
+    "Labour Law",
+    "Legal & Regulatory",
+    "Social Compliance",
+    "Buyer Compliance",
+    "IMS / ISO Control",
+    "Document Control",
+    "Record Control",
+    "Internal Audit",
+    "External Audit",
+    "Buyer Audit",
+    "Risk Assessment",
+    "Risk Register",
+    "CAPA",
+    "Continual Improvement",
+    "HSE",
+    "Safety Inspection",
+    "PPE Management",
+    "Fire Safety",
+    "Emergency Response",
+    "Fire Drill",
+    "Environmental Aspect/Impact",
+    "Environmental Monitoring",
+    "ETP/STP",
+    "Water Management",
+    "Air/Emission Monitoring",
+    "Waste Segregation",
+    "Recycling",
+    "Waste Disposal",
+    "Sustainability / ESG",
+    "Chemical Inventory",
+    "SDS Management",
+    "Chemical Storage",
+    "Chemical Handling",
+    "Spill Response",
+    "Energy Monitoring",
+    "Utility Monitoring",
+    "Energy Efficiency",
+    "Product Development",
+    "Tech Pack",
+    "Design",
+    "CAD",
+    "Pattern",
+    "Grading",
+    "Marker",
+    "Sample",
+    "Sample Approval",
+    "Procurement",
+    "RFQ",
+    "Sourcing",
+    "Supplier Selection",
+    "Supplier Approval",
+    "Supplier Evaluation",
+    "Supplier Audit",
+    "Supplier Development",
+    "Fabric Procurement",
+    "Fabric Store",
+    "Yarn",
+    "Knitting",
+    "Dyeing",
+    "Fabric Inspection",
+    "Accessories Procurement",
+    "Packaging Materials",
+    "General Purchase",
+    "Planning",
+    "Capacity Planning",
+    "Production Planning",
+    "Line Loading",
+    "Re-plan Management",
+    "IE",
+    "SMV",
+    "Work Study",
+    "Line Balancing",
+    "Productivity",
+    "Cutting",
+    "Fabric Relaxation",
+    "Spreading",
+    "Cutting Quality",
+    "Numbering",
+    "Bundling",
+    "Sewing Input",
+    "Sewing Production",
+    "Hourly Production",
+    "WIP Control",
+    "Sewing Quality",
+    "Finishing",
+    "Ironing",
+    "Folding",
+    "Spot Removal",
+    "Settings"
+  ],
+  "designations": [
+    {
+      "id": 1,
+      "name": "Managing Director"
+    },
+    {
+      "id": 2,
+      "name": "Director"
+    },
+    {
+      "id": 3,
+      "name": "Executive Director"
+    },
+    {
+      "id": 4,
+      "name": "Chief Executive Officer"
+    },
+    {
+      "id": 5,
+      "name": "Chief Operating Officer"
+    },
+    {
+      "id": 6,
+      "name": "Chief Financial Officer"
+    },
+    {
+      "id": 7,
+      "name": "Chief Human Resources Officer"
+    },
+    {
+      "id": 8,
+      "name": "Chief Compliance Officer"
+    },
+    {
+      "id": 9,
+      "name": "General Manager"
+    },
+    {
+      "id": 10,
+      "name": "Senior General Manager"
+    },
+    {
+      "id": 11,
+      "name": "Deputy General Manager"
+    },
+    {
+      "id": 12,
+      "name": "Assistant General Manager"
+    },
+    {
+      "id": 13,
+      "name": "Factory Manager"
+    },
+    {
+      "id": 14,
+      "name": "Deputy Factory Manager"
+    },
+    {
+      "id": 15,
+      "name": "Assistant Factory Manager"
+    },
+    {
+      "id": 16,
+      "name": "Manager"
+    },
+    {
+      "id": 17,
+      "name": "Senior Manager"
+    },
+    {
+      "id": 18,
+      "name": "Assistant Manager"
+    },
+    {
+      "id": 19,
+      "name": "Deputy Manager"
+    },
+    {
+      "id": 20,
+      "name": "Senior Officer"
+    },
+    {
+      "id": 21,
+      "name": "Officer"
+    },
+    {
+      "id": 22,
+      "name": "Junior Officer"
+    },
+    {
+      "id": 23,
+      "name": "Senior Executive"
+    },
+    {
+      "id": 24,
+      "name": "Executive"
+    },
+    {
+      "id": 25,
+      "name": "Junior Executive"
+    },
+    {
+      "id": 26,
+      "name": "Coordinator"
+    },
+    {
+      "id": 27,
+      "name": "Senior Coordinator"
+    },
+    {
+      "id": 28,
+      "name": "Supervisor"
+    },
+    {
+      "id": 29,
+      "name": "Senior Supervisor"
+    },
+    {
+      "id": 30,
+      "name": "Assistant Supervisor"
+    },
+    {
+      "id": 31,
+      "name": "HR Head"
+    },
+    {
+      "id": 32,
+      "name": "HR Manager"
+    },
+    {
+      "id": 33,
+      "name": "Senior HR Officer"
+    },
+    {
+      "id": 34,
+      "name": "HR Officer"
+    },
+    {
+      "id": 35,
+      "name": "Junior HR Officer HR / Admin / Welfare /Compliance"
+    },
+    {
+      "id": 36,
+      "name": "HR Executive"
+    },
+    {
+      "id": 37,
+      "name": "Senior HR Executive"
+    },
+    {
+      "id": 38,
+      "name": "Personnel Manager"
+    },
+    {
+      "id": 39,
+      "name": "Personnel Officer"
+    },
+    {
+      "id": 40,
+      "name": "Personnel Executive"
+    },
+    {
+      "id": 41,
+      "name": "Recruitment Officer"
+    },
+    {
+      "id": 42,
+      "name": "Recruitment Executive"
+    },
+    {
+      "id": 43,
+      "name": "Manpower Planning Officer"
+    },
+    {
+      "id": 44,
+      "name": "Employee Relations Officer"
+    },
+    {
+      "id": 45,
+      "name": "Welfare Manager"
+    },
+    {
+      "id": 46,
+      "name": "Welfare Officer"
+    },
+    {
+      "id": 47,
+      "name": "Senior Welfare Officer HR / Admin / Welfare /Compliance"
+    },
+    {
+      "id": 48,
+      "name": "Welfare Assistant"
+    },
+    {
+      "id": 49,
+      "name": "Grievance Officer"
+    },
+    {
+      "id": 50,
+      "name": "Compliance Manager"
+    },
+    {
+      "id": 51,
+      "name": "Senior Compliance Officer"
+    },
+    {
+      "id": 52,
+      "name": "Compliance Officer"
+    },
+    {
+      "id": 53,
+      "name": "Compliance Executive"
+    },
+    {
+      "id": 54,
+      "name": "Labour Law Officer"
+    },
+    {
+      "id": 55,
+      "name": "Legal Officer"
+    },
+    {
+      "id": 56,
+      "name": "Childcare Supervisor"
+    },
+    {
+      "id": 57,
+      "name": "Childcare Assistant HR / Admin / Welfare /Compliance"
+    },
+    {
+      "id": 58,
+      "name": "Admin Manager HR / Admin / Welfare /Compliance"
+    },
+    {
+      "id": 59,
+      "name": "Admin Officer"
+    },
+    {
+      "id": 60,
+      "name": "Admin Executive"
+    },
+    {
+      "id": 61,
+      "name": "Receptionist"
+    },
+    {
+      "id": 62,
+      "name": "Telephone Operator"
+    },
+    {
+      "id": 63,
+      "name": "Messenger"
+    },
+    {
+      "id": 64,
+      "name": "Peon"
+    },
+    {
+      "id": 65,
+      "name": "Office Assistant"
+    },
+    {
+      "id": 66,
+      "name": "Training Manager"
+    },
+    {
+      "id": 67,
+      "name": "Training Coordinator"
+    },
+    {
+      "id": 68,
+      "name": "Training Officer"
+    },
+    {
+      "id": 69,
+      "name": "Training Executive"
+    },
+    {
+      "id": 70,
+      "name": "Senior Trainer"
+    },
+    {
+      "id": 71,
+      "name": "Trainer"
+    },
+    {
+      "id": 72,
+      "name": "Technical Trainer"
+    },
+    {
+      "id": 73,
+      "name": "Sewing Trainer"
+    },
+    {
+      "id": 74,
+      "name": "Quality Trainer"
+    },
+    {
+      "id": 75,
+      "name": "Safety Trainer"
+    },
+    {
+      "id": 76,
+      "name": "Compliance Trainer"
+    },
+    {
+      "id": 77,
+      "name": "Competency Assessor"
+    },
+    {
+      "id": 78,
+      "name": "Performance Management Officer"
+    },
+    {
+      "id": 79,
+      "name": "KPI Officer"
+    },
+    {
+      "id": 80,
+      "name": "Marketing Director"
+    },
+    {
+      "id": 81,
+      "name": "Marketing Manager"
+    },
+    {
+      "id": 82,
+      "name": "Senior Marketing Manager"
+    },
+    {
+      "id": 83,
+      "name": "Marketing Officer"
+    },
+    {
+      "id": 84,
+      "name": "Marketing Executive"
+    },
+    {
+      "id": 85,
+      "name": "Business Development Manager"
+    },
+    {
+      "id": 86,
+      "name": "Business Development Officer"
+    },
+    {
+      "id": 87,
+      "name": "Buyer Coordinator"
+    },
+    {
+      "id": 88,
+      "name": "Trading House Coordinator"
+    },
+    {
+      "id": 89,
+      "name": "Buyer Communication Officer"
+    },
+    {
+      "id": 90,
+      "name": "Merchandising Manager"
+    },
+    {
+      "id": 91,
+      "name": "Senior Merchandiser"
+    },
+    {
+      "id": 92,
+      "name": "Merchandiser:"
+    },
+    {
+      "id": 93,
+      "name": "Junior Merchandiser"
+    },
+    {
+      "id": 94,
+      "name": "Trainee Merchandiser"
+    },
+    {
+      "id": 95,
+      "name": "Assistant Merchandiser"
+    },
+    {
+      "id": 96,
+      "name": "Production Merchandiser"
+    },
+    {
+      "id": 97,
+      "name": "Sample Merchandiser"
+    },
+    {
+      "id": 98,
+      "name": "Merchandising Coordinator"
+    },
+    {
+      "id": 99,
+      "name": "Costing Officer"
+    },
+    {
+      "id": 100,
+      "name": "Costing Executive"
+    },
+    {
+      "id": 101,
+      "name": "Order Coordinator"
+    },
+    {
+      "id": 102,
+      "name": "T&A Coordinator"
+    },
+    {
+      "id": 103,
+      "name": "Planning Manager"
+    },
+    {
+      "id": 104,
+      "name": "Senior Planning Officer"
+    },
+    {
+      "id": 105,
+      "name": "Planning Officer"
+    },
+    {
+      "id": 106,
+      "name": "Junior Planning Officer"
+    },
+    {
+      "id": 107,
+      "name": "Planning Executive"
+    },
+    {
+      "id": 108,
+      "name": "Production Planner"
+    },
+    {
+      "id": 109,
+      "name": "PPC Manager"
+    },
+    {
+      "id": 110,
+      "name": "PPC Officer"
+    },
+    {
+      "id": 111,
+      "name": "PPC Executive"
+    },
+    {
+      "id": 112,
+      "name": "Capacity Planner"
+    },
+    {
+      "id": 113,
+      "name": "Capacity Planning Officer"
+    },
+    {
+      "id": 114,
+      "name": "Line Loading Officer"
+    },
+    {
+      "id": 115,
+      "name": "Re-plan Officer"
+    },
+    {
+      "id": 116,
+      "name": "IE Manager"
+    },
+    {
+      "id": 117,
+      "name": "Senior IE Officer"
+    },
+    {
+      "id": 118,
+      "name": "IE Officer"
+    },
+    {
+      "id": 119,
+      "name": "Junior IE Officer"
+    },
+    {
+      "id": 120,
+      "name": "1E Executive"
+    },
+    {
+      "id": 121,
+      "name": "industrial Engineer"
+    },
+    {
+      "id": 122,
+      "name": "Senior industrial Engineer"
+    },
+    {
+      "id": 123,
+      "name": "Method Engineer"
+    },
+    {
+      "id": 124,
+      "name": "Work Study Officer"
+    },
+    {
+      "id": 125,
+      "name": "Line Balancing Engineer"
+    },
+    {
+      "id": 126,
+      "name": "Productivity Officer"
+    },
+    {
+      "id": 127,
+      "name": "SMV Analyst"
+    },
+    {
+      "id": 128,
+      "name": "Efficiency Analyst"
+    },
+    {
+      "id": 129,
+      "name": "Performance Analyst"
+    },
+    {
+      "id": 130,
+      "name": "Product Development Manager"
+    },
+    {
+      "id": 131,
+      "name": "Product Development Officer"
+    },
+    {
+      "id": 132,
+      "name": "Product Engineer"
+    },
+    {
+      "id": 133,
+      "name": "Fashion Designer"
+    },
+    {
+      "id": 134,
+      "name": "Design Coordinator"
+    },
+    {
+      "id": 135,
+      "name": "Tech Pack Coordinator"
+    },
+    {
+      "id": 136,
+      "name": "CAD Manager CAD / Product /Sample"
+    },
+    {
+      "id": 137,
+      "name": "CAD Supervisor"
+    },
+    {
+      "id": 138,
+      "name": "CAD Operator"
+    },
+    {
+      "id": 139,
+      "name": "Senior CAD Operator"
+    },
+    {
+      "id": 140,
+      "name": "Junior CAD Operator"
+    },
+    {
+      "id": 141,
+      "name": "Patter Master"
+    },
+    {
+      "id": 142,
+      "name": "Pattern Maker"
+    },
+    {
+      "id": 143,
+      "name": "Senior Pattern Maker"
+    },
+    {
+      "id": 144,
+      "name": "Assistant Pattern Maker"
+    },
+    {
+      "id": 145,
+      "name": "Grading Operator"
+    },
+    {
+      "id": 146,
+      "name": "Marker Planner"
+    },
+    {
+      "id": 147,
+      "name": "Marker Man"
+    },
+    {
+      "id": 148,
+      "name": "Sample Manager"
+    },
+    {
+      "id": 149,
+      "name": "Sample In-charge"
+    },
+    {
+      "id": 150,
+      "name": "Sample Supervisor"
+    },
+    {
+      "id": 151,
+      "name": "Senior Sample Man"
+    },
+    {
+      "id": 152,
+      "name": "Sample Man"
+    },
+    {
+      "id": 153,
+      "name": "Junior Sample Man"
+    },
+    {
+      "id": 154,
+      "name": "Procurement Director"
+    },
+    {
+      "id": 155,
+      "name": "Procurement Manager"
+    },
+    {
+      "id": 156,
+      "name": "Senior Procurement Officer"
+    },
+    {
+      "id": 157,
+      "name": "Procurement Officer"
+    },
+    {
+      "id": 158,
+      "name": "Junior Procurement Officer"
+    },
+    {
+      "id": 159,
+      "name": "Procurement Executive"
+    },
+    {
+      "id": 160,
+      "name": "Purchase Manager"
+    },
+    {
+      "id": 161,
+      "name": "Purchase Officer"
+    },
+    {
+      "id": 162,
+      "name": "Purchase Executive"
+    },
+    {
+      "id": 163,
+      "name": "Sourcing Manager"
+    },
+    {
+      "id": 164,
+      "name": "Sourcing Officer"
+    },
+    {
+      "id": 165,
+      "name": "Supplier Development Manager"
+    },
+    {
+      "id": 166,
+      "name": "Supplier Development Officer"
+    },
+    {
+      "id": 167,
+      "name": "Supplier Quality Manager"
+    },
+    {
+      "id": 168,
+      "name": "Supplier Quality Officer"
+    },
+    {
+      "id": 169,
+      "name": "Supplier Auditor"
+    },
+    {
+      "id": 170,
+      "name": "Supplier Evaluation Officer"
+    },
+    {
+      "id": 171,
+      "name": "Fabric Procurement Officer"
+    },
+    {
+      "id": 172,
+      "name": "Accessories Procurement Officer"
+    },
+    {
+      "id": 173,
+      "name": "General Purchase Officer"
+    },
+    {
+      "id": 174,
+      "name": "Fabric Manager"
+    },
+    {
+      "id": 175,
+      "name": "Fabric In-charge"
+    },
+    {
+      "id": 176,
+      "name": "Fabric Officer"
+    },
+    {
+      "id": 177,
+      "name": "Fabric Coordinator"
+    },
+    {
+      "id": 178,
+      "name": "Fabric Inspector T Knitting / Dyeing"
+    },
+    {
+      "id": 179,
+      "name": "Fabric Store Keeper T Knitting / Dyeing"
+    },
+    {
+      "id": 180,
+      "name": "Yarn Manager 7 Knitting / Dyeing"
+    },
+    {
+      "id": 181,
+      "name": "Yarn Officer 7 Knitting / Dyeing"
+    },
+    {
+      "id": 182,
+      "name": "Knitting Manager 7 Knitting / Dyeing"
+    },
+    {
+      "id": 183,
+      "name": "Knitting in-charge"
+    },
+    {
+      "id": 184,
+      "name": "Knitting Supervisor"
+    },
+    {
+      "id": 185,
+      "name": "Knitting Technician"
+    },
+    {
+      "id": 186,
+      "name": "Knitting Operator"
+    },
+    {
+      "id": 187,
+      "name": "Dyeing Manager"
+    },
+    {
+      "id": 188,
+      "name": "Dyeing Supervisor"
+    },
+    {
+      "id": 189,
+      "name": "Dyeing Technician"
+    },
+    {
+      "id": 190,
+      "name": "Dyeing Operator"
+    },
+    {
+      "id": 191,
+      "name": "Fabric Finishing Supervisor"
+    },
+    {
+      "id": 192,
+      "name": "Fabric Finishing Operator"
+    },
+    {
+      "id": 193,
+      "name": "Fabric Lab Technician 7 Knitting / Dyeing"
+    },
+    {
+      "id": 194,
+      "name": "Lab Assistant"
+    },
+    {
+      "id": 195,
+      "name": "Cutting Manager"
+    },
+    {
+      "id": 196,
+      "name": "Cutting in-charge"
+    },
+    {
+      "id": 197,
+      "name": "Cutting Supervisor"
+    },
+    {
+      "id": 198,
+      "name": "Senior Cutting Supervisor"
+    },
+    {
+      "id": 199,
+      "name": "Cutting Technician"
+    },
+    {
+      "id": 200,
+      "name": "Cutting Officer"
+    },
+    {
+      "id": 201,
+      "name": "[ Cutting Executive"
+    },
+    {
+      "id": 202,
+      "name": "CAD Marker"
+    },
+    {
+      "id": 203,
+      "name": "Marker Man"
+    },
+    {
+      "id": 204,
+      "name": "Spreading Supervisor"
+    },
+    {
+      "id": 205,
+      "name": "Spreader"
+    },
+    {
+      "id": 206,
+      "name": "Lay Man"
+    },
+    {
+      "id": 207,
+      "name": "Senior Cutter Man"
+    },
+    {
+      "id": 208,
+      "name": "Cutter Man"
+    },
+    {
+      "id": 209,
+      "name": "Junior Cutter Man"
+    },
+    {
+      "id": 210,
+      "name": "Assistant Cutter"
+    },
+    {
+      "id": 211,
+      "name": "Cutting Helper"
+    },
+    {
+      "id": 212,
+      "name": "Numbering Man"
+    },
+    {
+      "id": 213,
+      "name": "Bundle Man"
+    },
+    {
+      "id": 214,
+      "name": "Junior Bundle Man"
+    },
+    {
+      "id": 215,
+      "name": "Cutting Quality Inspector"
+    },
+    {
+      "id": 216,
+      "name": "Production Director"
+    },
+    {
+      "id": 217,
+      "name": "Production Manager"
+    },
+    {
+      "id": 218,
+      "name": "Senior Production Manager"
+    },
+    {
+      "id": 219,
+      "name": "Assistant Production Manager"
+    },
+    {
+      "id": 220,
+      "name": "Sewing Manager Sewing / Produ"
+    },
+    {
+      "id": 221,
+      "name": "Sewing in-charge"
+    },
+    {
+      "id": 222,
+      "name": "Sewing Supervisor"
+    },
+    {
+      "id": 223,
+      "name": "Senior Sewing Supervisor"
+    },
+    {
+      "id": 224,
+      "name": "Assistant Supervisor"
+    },
+    {
+      "id": 225,
+      "name": "Line Chief"
+    },
+    {
+      "id": 226,
+      "name": "Line Supervisor"
+    },
+    {
+      "id": 227,
+      "name": "Line Leader"
+    },
+    {
+      "id": 228,
+      "name": "Production Coordinator Sewing / Produ"
+    },
+    {
+      "id": 229,
+      "name": "Production Reporter"
+    },
+    {
+      "id": 230,
+      "name": "Input Supervisor"
+    },
+    {
+      "id": 231,
+      "name": "Input Man"
+    },
+    {
+      "id": 232,
+      "name": "Output Supervisor"
+    },
+    {
+      "id": 233,
+      "name": "Output Man"
+    },
+    {
+      "id": 234,
+      "name": "Bundle Man"
+    },
+    {
+      "id": 235,
+      "name": "Junior Bundle Man"
+    },
+    {
+      "id": 236,
+      "name": "Sewing Technician"
+    },
+    {
+      "id": 237,
+      "name": "Machine Technician"
+    },
+    {
+      "id": 238,
+      "name": "Operator"
+    },
+    {
+      "id": 239,
+      "name": "Senior Operator"
+    },
+    {
+      "id": 240,
+      "name": "Junior Operator"
+    },
+    {
+      "id": 241,
+      "name": "Trainee Operator"
+    },
+    {
+      "id": 242,
+      "name": "Helper Sewing / Produ"
+    },
+    {
+      "id": 243,
+      "name": "Sewing Helper"
+    },
+    {
+      "id": 244,
+      "name": "Machine Operator Sewing / Produ"
+    },
+    {
+      "id": 245,
+      "name": "Special Machine Operator Sewing / Produ"
+    },
+    {
+      "id": 246,
+      "name": "Button Operator"
+    },
+    {
+      "id": 247,
+      "name": "Button Supervisor"
+    },
+    {
+      "id": 248,
+      "name": "Buttonhole Operator Sewing / Produ"
+    },
+    {
+      "id": 249,
+      "name": "Bartack Operator"
+    },
+    {
+      "id": 250,
+      "name": "Flatlock Operator"
+    },
+    {
+      "id": 251,
+      "name": "Overlock Operator"
+    },
+    {
+      "id": 252,
+      "name": "Coverstitch Operator"
+    },
+    {
+      "id": 253,
+      "name": "Kansai Operator"
+    },
+    {
+      "id": 254,
+      "name": "Heat Seal Man"
+    },
+    {
+      "id": 255,
+      "name": "Heat Seal Supervisor"
+    },
+    {
+      "id": 256,
+      "name": "Piping Man"
+    },
+    {
+      "id": 257,
+      "name": "Piping MO"
+    },
+    {
+      "id": 258,
+      "name": "Iron Man"
+    },
+    {
+      "id": 259,
+      "name": "Iron Supervisor"
+    },
+    {
+      "id": 260,
+      "name": "Spot Man"
+    },
+    {
+      "id": 261,
+      "name": "Sticker Man"
+    },
+    {
+      "id": 262,
+      "name": "Tag Man"
+    },
+    {
+      "id": 263,
+      "name": "Numbering Man"
+    },
+    {
+      "id": 264,
+      "name": "Finishing Manager"
+    },
+    {
+      "id": 265,
+      "name": "Finishing In-charge"
+    },
+    {
+      "id": 266,
+      "name": "Finishing Supervisor"
+    },
+    {
+      "id": 267,
+      "name": "Senior Finishing Supervisor"
+    },
+    {
+      "id": 268,
+      "name": "Finishing Assistant"
+    },
+    {
+      "id": 269,
+      "name": "Iron Supervisor"
+    },
+    {
+      "id": 270,
+      "name": "Iron Man"
+    },
+    {
+      "id": 271,
+      "name": "Folding Supervisor"
+    },
+    {
+      "id": 272,
+      "name": "Folder"
+    },
+    {
+      "id": 273,
+      "name": "Spot Removal Operator"
+    },
+    {
+      "id": 274,
+      "name": "Metal Detector Operator"
+    },
+    {
+      "id": 275,
+      "name": "Packing Manager"
+    },
+    {
+      "id": 276,
+      "name": "Packing Supervisor"
+    },
+    {
+      "id": 277,
+      "name": "Packer"
+    },
+    {
+      "id": 278,
+      "name": "Senior Packer"
+    },
+    {
+      "id": 279,
+      "name": "Junior Packer"
+    },
+    {
+      "id": 280,
+      "name": "Carton Supervisor"
+    },
+    {
+      "id": 281,
+      "name": "Carton Checker"
+    },
+    {
+      "id": 282,
+      "name": "Finished Goods Supervisor"
+    },
+    {
+      "id": 283,
+      "name": "Quality Director"
+    },
+    {
+      "id": 284,
+      "name": "QA Manager Quaiit"
+    },
+    {
+      "id": 285,
+      "name": "QA Supervisor Quaiit"
+    },
+    {
+      "id": 286,
+      "name": "Quality Manager Quaiit"
+    },
+    {
+      "id": 287,
+      "name": "Quality in-charge"
+    },
+    {
+      "id": 288,
+      "name": "Quality Supervisor Quaiit"
+    },
+    {
+      "id": 289,
+      "name": "Senior Quality Supervisor"
+    },
+    {
+      "id": 290,
+      "name": "Quality Inspector Quaiit"
+    },
+    {
+      "id": 291,
+      "name": "Senior Quality Inspector Quaiit"
+    },
+    {
+      "id": 292,
+      "name": "Junior Quality inspector Quaiit"
+    },
+    {
+      "id": 293,
+      "name": "inline Inspector"
+    },
+    {
+      "id": 294,
+      "name": "End Line Inspector Quaiit"
+    },
+    {
+      "id": 295,
+      "name": "Final Inspector"
+    },
+    {
+      "id": 296,
+      "name": "Fabric Inspector"
+    },
+    {
+      "id": 297,
+      "name": "Cutting Quality Inspector"
+    },
+    {
+      "id": 298,
+      "name": "Sewing Quality Inspector"
+    },
+    {
+      "id": 299,
+      "name": "Finishing Quality Inspector"
+    },
+    {
+      "id": 300,
+      "name": "Packing Quality Inspector"
+    },
+    {
+      "id": 301,
+      "name": "QA Auditor Quaiit"
+    },
+    {
+      "id": 302,
+      "name": "Quality Auditor Quaiit"
+    },
+    {
+      "id": 303,
+      "name": "Qi Quail"
+    },
+    {
+      "id": 304,
+      "name": "Senior QI Quaiit"
+    },
+    {
+      "id": 305,
+      "name": "GPQ Quaiit"
+    },
+    {
+      "id": 306,
+      "name": "Senior GPQ. Quail"
+    },
+    {
+      "id": 307,
+      "name": "Product Safety Officer"
+    },
+    {
+      "id": 308,
+      "name": "Needle Control Officer"
+    },
+    {
+      "id": 309,
+      "name": "Traceability Officer"
+    },
+    {
+      "id": 310,
+      "name": "Customer Complaint Officer"
+    },
+    {
+      "id": 311,
+      "name": "Laboratory Manager"
+    },
+    {
+      "id": 312,
+      "name": "Lab Manager"
+    },
+    {
+      "id": 313,
+      "name": "Lab Officer"
+    },
+    {
+      "id": 314,
+      "name": "Lab Technician Lab /Testing / Calibration"
+    },
+    {
+      "id": 315,
+      "name": "Senior Lab Technician"
+    },
+    {
+      "id": 316,
+      "name": "Junior Lab Technician"
+    },
+    {
+      "id": 317,
+      "name": "Testing Officer"
+    },
+    {
+      "id": 318,
+      "name": "Testing Technician Lab /Testing / Calibration"
+    },
+    {
+      "id": 319,
+      "name": "Calibration Officer Lab Testing / Calibration"
+    },
+    {
+      "id": 320,
+      "name": "Calibration Technician Lab Testing / Calibration"
+    },
+    {
+      "id": 321,
+      "name": "Engineering Manager"
+    },
+    {
+      "id": 322,
+      "name": "Maintenance Manager"
+    },
+    {
+      "id": 323,
+      "name": "Maintenance In-charge"
+    },
+    {
+      "id": 324,
+      "name": "Maintenance Supervisor"
+    },
+    {
+      "id": 325,
+      "name": "Mechanical Engineer Engineering / Maintenance / Utilty"
+    },
+    {
+      "id": 326,
+      "name": "Mechanical Supervisor"
+    },
+    {
+      "id": 327,
+      "name": "Mechanic in-charge"
+    },
+    {
+      "id": 328,
+      "name": "Senior Mechanic"
+    },
+    {
+      "id": 329,
+      "name": "Mechanic"
+    },
+    {
+      "id": 330,
+      "name": "Junior Mechanic"
+    },
+    {
+      "id": 331,
+      "name": "Machine Technician"
+    },
+    {
+      "id": 332,
+      "name": "Senior Machine Technician"
+    },
+    {
+      "id": 333,
+      "name": "Junior Machine Technician"
+    },
+    {
+      "id": 334,
+      "name": "Electrical Manager"
+    },
+    {
+      "id": 335,
+      "name": "Electrical Engineer"
+    },
+    {
+      "id": 336,
+      "name": "Electrical Supervisor Engineering / Maintenance / Uiilty"
+    },
+    {
+      "id": 337,
+      "name": "Electric in-charge Engineering / Maintenance / Utilty"
+    },
+    {
+      "id": 338,
+      "name": "Electric Supervisor"
+    },
+    {
+      "id": 339,
+      "name": "Electric Technician"
+    },
+    {
+      "id": 340,
+      "name": "General Electrician"
+    },
+    {
+      "id": 341,
+      "name": "Senior Electrician"
+    },
+    {
+      "id": 342,
+      "name": "Junior Electrician"
+    },
+    {
+      "id": 343,
+      "name": "Generator Supervisor"
+    },
+    {
+      "id": 344,
+      "name": "Generator Operator"
+    },
+    {
+      "id": 345,
+      "name": "Boiler Supervisor"
+    },
+    {
+      "id": 346,
+      "name": "Boiler Operator"
+    },
+    {
+      "id": 347,
+      "name": "Compressor Operator"
+    },
+    {
+      "id": 348,
+      "name": "HVAC Supervisor"
+    },
+    {
+      "id": 349,
+      "name": "HVAC Technician"
+    },
+    {
+      "id": 350,
+      "name": "AC Technician"
+    },
+    {
+      "id": 351,
+      "name": "Plumber"
+    },
+    {
+      "id": 352,
+      "name": "Welder"
+    },
+    {
+      "id": 353,
+      "name": "Civil Engineer"
+    },
+    {
+      "id": 354,
+      "name": "Civil Supervisor"
+    },
+    {
+      "id": 355,
+      "name": "HSE Manager"
+    },
+    {
+      "id": 356,
+      "name": "HSE Officer"
+    },
+    {
+      "id": 357,
+      "name": "Senior HSE Officer"
+    },
+    {
+      "id": 358,
+      "name": "Safety Officer"
+    },
+    {
+      "id": 359,
+      "name": "Safety Executive"
+    },
+    {
+      "id": 360,
+      "name": "Environmental Manager"
+    },
+    {
+      "id": 361,
+      "name": "Environmental Officer"
+    },
+    {
+      "id": 362,
+      "name": "Sustainability Officer"
+    },
+    {
+      "id": 363,
+      "name": "Waste Management Officer"
+    },
+    {
+      "id": 364,
+      "name": "Chemical Management Officer"
+    },
+    {
+      "id": 365,
+      "name": "Chemical Safety Officer"
+    },
+    {
+      "id": 366,
+      "name": "Fire Safety Manager"
+    },
+    {
+      "id": 367,
+      "name": "Fire Safety Officer"
+    },
+    {
+      "id": 368,
+      "name": "Fireman"
+    },
+    {
+      "id": 369,
+      "name": "Emergency Response Coordinator"
+    },
+    {
+      "id": 370,
+      "name": "Emergency Response Team Leader"
+    },
+    {
+      "id": 371,
+      "name": "PPE Officer"
+    },
+    {
+      "id": 372,
+      "name": "Safely Inspector"
+    },
+    {
+      "id": 373,
+      "name": "Medical Manager"
+    },
+    {
+      "id": 374,
+      "name": "Medical Officer"
+    },
+    {
+      "id": 375,
+      "name": "Senior Medical Officer ["
+    },
+    {
+      "id": 376,
+      "name": "Medical Assistant"
+    },
+    {
+      "id": 377,
+      "name": "Medical Asst"
+    },
+    {
+      "id": 378,
+      "name": "Nurse"
+    },
+    {
+      "id": 379,
+      "name": "First Aid Officer"
+    },
+    {
+      "id": 380,
+      "name": "Occupational Health Officer"
+    },
+    {
+      "id": 381,
+      "name": "Store Manager"
+    },
+    {
+      "id": 382,
+      "name": "Store In-charge"
+    },
+    {
+      "id": 383,
+      "name": "Store Supervisor"
+    },
+    {
+      "id": 384,
+      "name": "Senior Store Keeper"
+    },
+    {
+      "id": 385,
+      "name": "Store Keeper"
+    },
+    {
+      "id": 386,
+      "name": "Store Assistant Store / Inventory / Logistios"
+    },
+    {
+      "id": 387,
+      "name": "Inventory Manager"
+    },
+    {
+      "id": 388,
+      "name": "Inventory Officer Store Inventory / Logistics"
+    },
+    {
+      "id": 389,
+      "name": "Inventory Controller Store Inventory / Logistics"
+    },
+    {
+      "id": 390,
+      "name": "Warehouse Manager Store Inventory / Logistics"
+    },
+    {
+      "id": 391,
+      "name": "Warehouse Supervisor"
+    },
+    {
+      "id": 392,
+      "name": "Warehouse Officer"
+    },
+    {
+      "id": 393,
+      "name": "Warehouse Assistant"
+    },
+    {
+      "id": 394,
+      "name": "Receiving Officer"
+    },
+    {
+      "id": 395,
+      "name": "Receiving Assistant"
+    },
+    {
+      "id": 396,
+      "name": "GRN Officer"
+    },
+    {
+      "id": 397,
+      "name": "Issue Man"
+    },
+    {
+      "id": 398,
+      "name": "Assistant Issue Man Store Inventory / Logistios"
+    },
+    {
+      "id": 399,
+      "name": "Stock Controller"
+    },
+    {
+      "id": 400,
+      "name": "Stock Auditor Store [Inventory /Logistics"
+    },
+    {
+      "id": 401,
+      "name": "Finished Goods Store Keeper"
+    },
+    {
+      "id": 402,
+      "name": "Logistics Manager Store Inventory / Logistics"
+    },
+    {
+      "id": 403,
+      "name": "Logistics Officer"
+    },
+    {
+      "id": 404,
+      "name": "Logistics Coordinator"
+    },
+    {
+      "id": 405,
+      "name": "Dispatch Officer"
+    },
+    {
+      "id": 406,
+      "name": "Transport Officer"
+    },
+    {
+      "id": 407,
+      "name": "Loader Supervisor"
+    },
+    {
+      "id": 408,
+      "name": "Loader Store Inventory / Logistics"
+    },
+    {
+      "id": 409,
+      "name": "CFO"
+    },
+    {
+      "id": 410,
+      "name": "Finance Manager"
+    },
+    {
+      "id": 411,
+      "name": "Accounts Manager"
+    },
+    {
+      "id": 412,
+      "name": "Senior Accounts Officer"
+    },
+    {
+      "id": 413,
+      "name": "Accounts Officer"
+    },
+    {
+      "id": 414,
+      "name": "Junior Accounts Officer"
+    },
+    {
+      "id": 415,
+      "name": "Accounts Executive"
+    },
+    {
+      "id": 416,
+      "name": "Cost Accountant"
+    },
+    {
+      "id": 417,
+      "name": "Cost Control Officer"
+    },
+    {
+      "id": 418,
+      "name": "Budget Officer"
+    },
+    {
+      "id": 419,
+      "name": "Payroll Officer"
+    },
+    {
+      "id": 420,
+      "name": "Payroll Executive"
+    },
+    {
+      "id": 421,
+      "name": "Cashier"
+    },
+    {
+      "id": 422,
+      "name": "Accounts Assistant"
+    },
+    {
+      "id": 423,
+      "name": "Commercial Manager"
+    },
+    {
+      "id": 424,
+      "name": "Senior Commercial Officer"
+    },
+    {
+      "id": 425,
+      "name": "Commercial Officer"
+    },
+    {
+      "id": 426,
+      "name": "Commercial Executive"
+    },
+    {
+      "id": 427,
+      "name": "Export Manager"
+    },
+    {
+      "id": 428,
+      "name": "Export Officer"
+    },
+    {
+      "id": 429,
+      "name": "Import Manager"
+    },
+    {
+      "id": 430,
+      "name": "Import Officer"
+    },
+    {
+      "id": 431,
+      "name": "Shipping Officer"
+    },
+    {
+      "id": 432,
+      "name": "Shipping Executive"
+    },
+    {
+      "id": 433,
+      "name": "Documentation Officer"
+    },
+    {
+      "id": 434,
+      "name": "Customs Coordinator"
+    },
+    {
+      "id": 435,
+      "name": "Bond Officer"
+    },
+    {
+      "id": 436,
+      "name": "IT Director"
+    },
+    {
+      "id": 437,
+      "name": "IT Manager"
+    },
+    {
+      "id": 438,
+      "name": "System Administrator IT/ Security MIS"
+    },
+    {
+      "id": 439,
+      "name": "Senior System Administrator"
+    },
+    {
+      "id": 440,
+      "name": "Network Administrator"
+    },
+    {
+      "id": 441,
+      "name": "Database Administrator"
+    },
+    {
+      "id": 442,
+      "name": "Information Security Manager"
+    },
+    {
+      "id": 443,
+      "name": "Information Security Officer"
+    },
+    {
+      "id": 444,
+      "name": "Cybersecurity Officer"
+    },
+    {
+      "id": 445,
+      "name": "IT Support Manager"
+    },
+    {
+      "id": 446,
+      "name": "IT Support Officer"
+    },
+    {
+      "id": 447,
+      "name": "IT Support Executive"
+    },
+    {
+      "id": 448,
+      "name": "Software Engineer IT/ Security MIS"
+    },
+    {
+      "id": 449,
+      "name": "Full Stack Developer"
+    },
+    {
+      "id": 450,
+      "name": "Frontend Developer"
+    },
+    {
+      "id": 451,
+      "name": "Backend Developer"
+    },
+    {
+      "id": 452,
+      "name": "Mobile App Developer"
+    },
+    {
+      "id": 453,
+      "name": "Data Engineer"
+    },
+    {
+      "id": 454,
+      "name": "Data Entry Operator"
+    },
+    {
+      "id": 455,
+      "name": "System Operator"
+    },
+    {
+      "id": 456,
+      "name": "MIS Manager"
+    },
+    {
+      "id": 457,
+      "name": "MIS Officer IT/ Security MIS"
+    },
+    {
+      "id": 458,
+      "name": "Bl Analyst IT/ Security MIS"
+    },
+    {
+      "id": 459,
+      "name": "Data Analyst IT/ Security MIS"
+    },
+    {
+      "id": 460,
+      "name": "KPI Analyst"
+    },
+    {
+      "id": 461,
+      "name": "Security Manager IT/ Security MIS"
+    },
+    {
+      "id": 462,
+      "name": "Security Supervisor"
+    },
+    {
+      "id": 463,
+      "name": "Security Officer IT/ Security MIS"
+    },
+    {
+      "id": 464,
+      "name": "Security Guard"
+    },
+    {
+      "id": 465,
+      "name": "Junior Security Guard"
+    },
+    {
+      "id": 466,
+      "name": "CCTV Operator"
+    },
+    {
+      "id": 467,
+      "name": "Access Control Officer"
+    },
+    {
+      "id": 468,
+      "name": "IMS Manager Audit / Risk / IMS 7 Document"
+    },
+    {
+      "id": 469,
+      "name": "IMS Officer Audit Risk /IMS 7 Document"
+    },
+    {
+      "id": 470,
+      "name": "ISO Coordinator Audit [Risk /IMS / Document"
+    },
+    {
+      "id": 471,
+      "name": "Document Controller Audit [Risk /IMS 7 Document"
+    },
+    {
+      "id": 472,
+      "name": "Document Control Officer Aucit / Risk /IMS / Document"
+    },
+    {
+      "id": 473,
+      "name": "Records Officer Audit / Risk /IMS / Document"
+    },
+    {
+      "id": 474,
+      "name": "Internal Audit Manager"
+    },
+    {
+      "id": 475,
+      "name": "Lead Auditor"
+    },
+    {
+      "id": 476,
+      "name": "Internal Auditor"
+    },
+    {
+      "id": 477,
+      "name": "Audit Officer"
+    },
+    {
+      "id": 478,
+      "name": "Buyer Audit Coordinator"
+    },
+    {
+      "id": 479,
+      "name": "External Audit Coordinator"
+    },
+    {
+      "id": 480,
+      "name": "Risk Manager"
+    },
+    {
+      "id": 481,
+      "name": "Risk Officer Audit [Risk /IMS 7 Document"
+    },
+    {
+      "id": 482,
+      "name": "Risk Analyst"
+    },
+    {
+      "id": 483,
+      "name": "CAPA Coordinator Audit /Risk 7 IMS 7 Document"
+    },
+    {
+      "id": 484,
+      "name": "Continual improvement Officer Audit / Risk / IMS 7 Document"
+    },
+    {
+      "id": 485,
+      "name": "Business Continuity Manager"
+    },
+    {
+      "id": 486,
+      "name": "Business Continuity Officer"
+    },
+    {
+      "id": 487,
+      "name": "Crisis Management Coordinator__| Audit /Risk /IMS / Document"
+    },
+    {
+      "id": 488,
+      "name": "Driver"
+    },
+    {
+      "id": 489,
+      "name": "Senior Driver"
+    },
+    {
+      "id": 490,
+      "name": "Junior Driver"
+    },
+    {
+      "id": 491,
+      "name": "Lift Operator"
+    },
+    {
+      "id": 492,
+      "name": "Cleaner"
+    },
+    {
+      "id": 493,
+      "name": "Cleaner Supervisor"
+    },
+    {
+      "id": 494,
+      "name": "Sweeper"
+    },
+    {
+      "id": 495,
+      "name": "Cook"
+    },
+    {
+      "id": 496,
+      "name": "Canteen Supervisor"
+    },
+    {
+      "id": 497,
+      "name": "Canteen Boy"
+    },
+    {
+      "id": 498,
+      "name": "Loader"
+    },
+    {
+      "id": 499,
+      "name": "Technical In-charge"
+    },
+    {
+      "id": 500,
+      "name": "Technical Supervisor"
+    },
+    {
+      "id": 501,
+      "name": "Technical Officer"
+    },
+    {
+      "id": 502,
+      "name": "Telephone Operator"
+    },
+    {
+      "id": 503,
+      "name": "Messenger"
+    },
+    {
+      "id": 504,
+      "name": "Peon"
+    },
+    {
+      "id": 505,
+      "name": "Folder"
+    },
+    {
+      "id": 506,
+      "name": "Folding Supervisor"
+    },
+    {
+      "id": 507,
+      "name": "Asst. Bundle Man"
+    },
+    {
+      "id": 508,
+      "name": "Asst. Cutter"
+    },
+    {
+      "id": 509,
+      "name": "Asst. Electrician"
+    },
+    {
+      "id": 510,
+      "name": "Asst. Mechanic"
+    },
+    {
+      "id": 511,
+      "name": "Asst. Incharge"
+    },
+    {
+      "id": 512,
+      "name": "Asst. Issue Man"
+    },
+    {
+      "id": 513,
+      "name": "Asst. Lay Man"
+    },
+    {
+      "id": 514,
+      "name": "Asst. Manager"
+    },
+    {
+      "id": 515,
+      "name": "Asst. Merchandiser"
+    },
+    {
+      "id": 516,
+      "name": "Asst. Officer"
+    },
+    {
+      "id": 517,
+      "name": "Asst. Printer"
+    },
+    {
+      "id": 518,
+      "name": "Asst. Production Manager"
+    },
+    {
+      "id": 519,
+      "name": "Asst. Quality Incharge"
+    },
+    {
+      "id": 520,
+      "name": "Asst. Receive Man"
+    },
+    {
+      "id": 521,
+      "name": "Asst. Relax Man"
+    },
+    {
+      "id": 522,
+      "name": "Asst. Scissor Man"
+    },
+    {
+      "id": 523,
+      "name": "Asst. Supervisor"
+    },
+    {
+      "id": 524,
+      "name": "Asst. Executive"
+    },
+    {
+      "id": 525,
+      "name": "Asst. Mechanic Incharge"
+    },
+    {
+      "id": 526,
+      "name": "Jr. Reporter"
+    },
+    {
+      "id": 527,
+      "name": "Jr. Receive Man"
+    },
+    {
+      "id": 528,
+      "name": "Jr. S.MO BIT"
+    },
+    {
+      "id": 529,
+      "name": "Jr. SMO FID"
+    },
+    {
+      "id": 530,
+      "name": "Jr. S.M.O FIL"
+    },
+    {
+      "id": 531,
+      "name": "Jr. S.M.O OIL"
+    },
+    {
+      "id": 532,
+      "name": "Jr. S.M.O P/M"
+    },
+    {
+      "id": 533,
+      "name": "Jr. SM.OZZ"
+    },
+    {
+      "id": 534,
+      "name": "Jr. T.S.MO"
+    },
+    {
+      "id": 535,
+      "name": "Jr. Computer Operator"
+    },
+    {
+      "id": 536,
+      "name": "Jr. E.C.0"
+    },
+    {
+      "id": 537,
+      "name": "Jr. Executive"
+    },
+    {
+      "id": 538,
+      "name": "Jr. Lady Guard"
+    },
+    {
+      "id": 539,
+      "name": "Jr. Needle Man"
+    },
+    {
+      "id": 540,
+      "name": "Jr. Plumber"
+    },
+    {
+      "id": 541,
+      "name": "Jr. Poly Man"
+    },
+    {
+      "id": 542,
+      "name": "Jr. Print Delivery Man"
+    },
+    {
+      "id": 543,
+      "name": "Jr. Relax Man"
+    },
+    {
+      "id": 544,
+      "name": "Jr. Scissor Man"
+    },
+    {
+      "id": 545,
+      "name": "Jr. Spotman"
+    },
+    {
+      "id": 546,
+      "name": "Jr. Sticker Man"
+    },
+    {
+      "id": 547,
+      "name": "Jr. Tag Man"
+    },
+    {
+      "id": 548,
+      "name": "Jr. Writer Man"
+    },
+    {
+      "id": 549,
+      "name": "Sr. Cutter Man"
+    },
+    {
+      "id": 550,
+      "name": "Sr. Receive Supervisor"
+    },
+    {
+      "id": 551,
+      "name": "Sr. Receive Man"
+    },
+    {
+      "id": 552,
+      "name": "Sr. Sample Man ["
+    },
+    {
+      "id": 553,
+      "name": "Sr. Sewing Supervisor"
+    },
+    {
+      "id": 554,
+      "name": "Sr. G.P.O"
+    },
+    {
+      "id": 555,
+      "name": "Sr"
+    },
+    {
+      "id": 556,
+      "name": "Sr. Quality Supervisor"
+    },
+    {
+      "id": 557,
+      "name": "Sr. Iron Supervisor"
+    },
+    {
+      "id": 558,
+      "name": "Sr. Quality Supervisor"
+    },
+    {
+      "id": 559,
+      "name": "S.SMO BT"
+    },
+    {
+      "id": 560,
+      "name": "S.SMO FD"
+    },
+    {
+      "id": 561,
+      "name": "S.SMO FIL"
+    },
+    {
+      "id": 562,
+      "name": "S.SMO OM"
+    },
+    {
+      "id": 563,
+      "name": "S.S.M.O P/M"
+    },
+    {
+      "id": 564,
+      "name": "S.SMO ZZ"
+    }
+  ],
+  "specialModules": [
+    "Knitting Management",
+    "Dyeing Management",
+    "Fabric Finishing Management",
+    "Fabric Management",
+    "Marketing & Merchandising",
+    "Design / Product Development",
+    "CAD",
+    "Sample Management",
+    "Procurement Management",
+    "Fabric Procurement",
+    "Accessories Procurement",
+    "General Procurement",
+    "Inventory Management",
+    "Store Management",
+    "Warehouse / Logistics",
+    "Planning Management",
+    "IE Management",
+    "Cutting Management",
+    "Sewing Management",
+    "Sewing Quality",
+    "Finishing Management",
+    "Packing Management",
+    "Quality Assurance",
+    "Quality Control",
+    "Laboratory / Testing Management",
+    "Product Safety Management",
+    "Mechanical Maintenance",
+    "Electrical Management",
+    "Utility Management",
+    "Energy Management",
+    "Security Management",
+    "Emergency & Crisis Management",
+    "Business Continuity Management",
+    "Accounts & Finance",
+    "Commercial Management",
+    "Logistics / Shipment",
+    "Printing Management",
+    "Embroidery Management",
+    "Washing / Laundry Management",
+    "Needle & Sharp Tool Management",
+    "Chemical Management",
+    "Jhute / Leftover / Stock Lot Management",
+    "Customer Complaint & Satisfaction",
+    "Supplier Quality Management",
+    "Supplier Development",
+    "Calibration Management",
+    "Legal & Regulatory Register",
+    "Sustainability / ESG Management",
+    "Energy & Carbon Management",
+    "Product Traceability Management",
+    "Management KPI & Business Intelligence",
+    "Data Analytics & AI Management"
+  ],
+  "departmentFields": [
+    "Department Purpose",
+    "Scope",
+    "ISO/Management Standard Mapping",
+    "Daily Activities",
+    "Weekly Activities",
+    "Monthly Activities",
+    "Quarterly Activities",
+    "Half-Yearly Activities",
+    "Annual Activities",
+    "Department KPI",
+    "Risk & Control",
+    "Required Documents/Records",
+    "Internal Audit Points",
+    "CAPA",
+    "Annual Evaluation"
+  ],
+  "sectionFields": [
+    "Section Objective",
+    "Section Scope",
+    "Applicable ISO/Legal/Buyer Requirements",
+    "Daily Work",
+    "Weekly Work",
+    "Monthly Work",
+    "Quarterly Work",
+    "Half-Yearly Work",
+    "Annual Work",
+    "Section KPI",
+    "Section Checklist",
+    "Required Forms & Records",
+    "Audit Points",
+    "Risk",
+    "CAPA",
+    "Section Performance Evaluation"
+  ],
+  "designationFields": [
+    "Job Purpose",
+    "Job Responsibility",
+    "Authority",
+    "Accountability",
+    "Daily Duties",
+    "Weekly Duties",
+    "Monthly Duties",
+    "Quarterly Duties",
+    "Half-Yearly Duties",
+    "Annual Duties",
+    "Required Competency",
+    "Required Training",
+    "Applicable ISO Requirements",
+    "Applicable SOP/WI",
+    "Designation Checklist",
+    "KPI",
+    "Target",
+    "Evidence/Record",
+    "Performance Evaluation",
+    "Supervisor/Reporting Line"
+  ]
+}

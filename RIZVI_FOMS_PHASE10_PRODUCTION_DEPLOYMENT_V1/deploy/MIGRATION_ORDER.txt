@@ -1,0 +1,10 @@
+Run database migrations in this order:
+001 ... Phase 1/2 database migrations already present in the package
+003_oidc_rbac.sql
+004_workflow_checklist_automation.sql
+005_kpi_audit_nc_capa.sql
+006_document_voice_video.sql
+007_dashboards.sql
+008_realtime_synchronization.sql
+
+Validate each migration against a staging PostgreSQL instance before production.

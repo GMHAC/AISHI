@@ -1,0 +1,37 @@
+apiVersion: serving.knative.dev/v1
+kind: Service
+metadata:
+  name: rizvi-foms-api
+  annotations:
+    run.googleapis.com/ingress: all
+spec:
+  template:
+    metadata:
+      annotations:
+        autoscaling.knative.dev/minScale: '3'
+        autoscaling.knative.dev/maxScale: '1000'
+        run.googleapis.com/execution-environment: gen2
+    spec:
+      containerConcurrency: 80
+      timeoutSeconds: 300
+      containers:
+        - image: REGION-docker.pkg.dev/PROJECT_ID/rizvi-foms/rizvi-foms-api:latest
+          ports:
+            - containerPort: 8080
+          resources:
+            limits:
+              cpu: '2'
+              memory: 2Gi
+          env:
+            - name: PORT
+              value: '8080'
+            - name: NODE_ENV
+              value: production
+            - name: GCS_BUCKET
+              value: YOUR-RIZVI-DOCUMENT-BUCKET
+            - name: GOOGLE_CLOUD_PROJECT
+              value: PROJECT_ID
+            - name: PUBSUB_DOCUMENT_TOPIC
+              value: rizvi-document-ingest
+            - name: API_RATE_LIMIT_PER_MINUTE
+              value: '1200'

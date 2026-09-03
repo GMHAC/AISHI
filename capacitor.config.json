@@ -1,0 +1,6 @@
+{
+  "appId": "com.rizvi.foms",
+  "appName": "RIZVI FOMS",
+  "webDir": ".",
+  "server": { "androidScheme": "https" }
+}
