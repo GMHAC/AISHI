@@ -1,6 +1,7 @@
 {
   "projects": {
-    "default": "hrmcomp-894a7"
+    "default": "hrmcomp-894a7",
+    "worlden": "worlden"
   },
   "targets": {},
   "etags": {}
