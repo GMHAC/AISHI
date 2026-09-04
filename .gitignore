@@ -5,3 +5,18 @@ backend/uploads/*
 node_modules/
 .env
 *.log
+# Firebase
+.firebase/
+firebase-debug.log
+firestore-debug.log
+
+# Env / secrets
+.env
+.env.local
+serviceAccountKey.json
+
+# Android/iOS build
+node_modules/
+build/
+dist/
+*.keystore
